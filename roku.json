@@ -1,74 +1,173 @@
 {
-    "feed":{
-    "title":"iVideo",
-    "description":"The Top Video Service In The World",
-    "link":"http://myrokuwebsite.com",
-    "item":[
+  "providerName": "iVideo",
+  "lastUpdated": "2023-05-11T12:30:00.000Z",
+  "language": "en",
+  "movies": [
     {
-    "title":"Apollo 13 | Nightmare",
-    "description":"The Nightmare Of Marilyn Lovell",
-    "media:content":{
-    "@url":"https://www.youtube.com/watch?v=6FdmakmymIs",
-    "@type":"video/mp4"
-    },
-    "media:thumbnail":{
-    "@url":"https://i.ytimg.com/vi/OnH0L2Hsth0/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCl_-8K1H6JUqIB-M2xL3hO6BcPwA"
-    },
-    "media:keywords":"nightmare, dream, disaster",
-    "media:duration":"58"
-    },
-    {
-    "title":"Apollo 13 | Launch",
-    "description":"The Launch Of Apollo 13 Moon Mission",
-    "media:content":{
-    "@url":"https://www.youtube.com/watch?v=lMtWWls4oas&t=130s",
-    "@type":"video/mp4"
-    },
-    "media:thumbnail":{
-    "@url":"https://i.ytimg.com/vi/1-JdqHxqkHA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA40t7Za1pobxqA86BTFEe7sdq0Yw"
-    },
-    "media:keywords":"launch, rocket, space",
-    "media:duration":"189"
-    },
-    {
-    "title":"Godzilla VS Kong | Entering The Hollow Earth",
-    "description":"The Mysterious Journey To The Hollow Earth",
-    "media:content":{
-    "@url":"https://www.youtube.com/watch?v=evIa1rVvk-E",
-    "@type":"video/mp4"
-    },
-    "media:thumbnail":{
-    "@url":"https://i.ytimg.com/vi/uCvl5joIeRE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCLD7BDhjFUn_XaTC90VAvLCU8QHw"
-    },
-    "media:keywords":"hollow, earth, godzilla, kong, heav",
-    "media:duration":"238"
+      "title": "Apollo 13 | Nightmare",
+      "shortDescription": "The Nightmare Of Marilyn Lovell",
+      "releaseDate": "1995-06-30",
+      "content": {
+        "dateAdded": "2023-05-10T08:00:00.000Z",
+        "videos": [
+          {
+            "url": "https://www.youtube.com/watch?v=6FdmakmymIs",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": "58",
+        "genres": [
+          "Drama",
+          "History"
+        ],
+        "tags": [
+          "nightmare",
+          "dream",
+          "disaster"
+        ],
+        "images": [
+          {
+            "url": "https://i.ytimg.com/vi/OnH0L2Hsth0/hqdefault.jpg",
+            "width": 640,
+            "height": 360
+          }
+        ]
+      }
     },
     {
-    "title":"Space Shuttle Launch",
-    "description":"One Of The Greatest Accomplishments Achieved In Human History",
-    "media:content":{
-    "@url":"https://www.youtube.com/watch?v=uuYoYl5kyVE",
-    "@type":"video/mp4"
-    },
-    "media:thumbnail":{
-    "@url":"https://i.ytimg.com/vi/uuYoYl5kyVE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCLD7BDhjFUn_XaTC90VAvLCU8QHw"
-    },
-    "media:keywords":"space, shuttle, launch, closeup",
-    "media:duration":"154"
+      "title": "Apollo 13 | Launch",
+      "shortDescription": "The Launch Of Apollo 13 Moon Mission",
+      "releaseDate": "1995-06-30",
+      "content": {
+        "dateAdded": "2023-05-10T08:00:00.000Z",
+        "videos": [
+          {
+            "url": "https://www.youtube.com/watch?v=lMtWWls4oas",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": "159",
+        "genres": [
+          "Drama",
+          "History"
+        ],
+        "tags": [
+          "launch",
+          "rocket",
+          "space"
+        ],
+        "images": [
+          {
+            "url": "https://i.ytimg.com/vi/1-JdqHxqkHA/hq720.jpg",
+            "width": 640,
+            "height": 360
+          }
+        ]
+      }
     },
     {
-        "title":"Hunt For The Secret Formula",
-        "description":"You'd Think After All Of Those Schemes To Steal It, He Would've Learned By Now",
-        "media:content":{
-        "@url":"https://www.youtube.com/watch?v=OfmbdmXo_P0",
-        "@type":"video/mp4"
-        },
-        "media:thumbnail":{
-        "@url":"https://i.ytimg.com/vi/OfmbdmXo_P0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCLD7BDhjFUn_XaTC90VAvLCU8QHw"
-        },
-        "media:keywords":"secret, formula, scheme, steal, plankton",
-        "media:duration":"1400"
+      "title": "Godzilla VS Kong | Entering The Hollow Earth",
+      "shortDescription": "The Mysterious Journey To The Hollow Earth",
+      "releaseDate": "2021-03-24",
+      "content": {
+        "dateAdded": "2023-05-10T08:00:00.000Z",
+        "videos": [
+          {
+            "url": "https://www.youtube.com/watch?v=evIa1rVvk-E",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": "238",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Fantasy"
+        ],
+        "tags": [
+          "hollow",
+          "earth",
+          "godzilla",
+          "kong"
+        ],
+        "images": [
+          {
+            "url": "https://i.ytimg.com/vi/uCvl5joIeRE/hq720.jpg",
+            "width": 640,
+            "height": 360
+          }
+        ]
+      }
     },
-]
+    {
+      "title": "Space Shuttle Launch",
+      "shortDescription": "One Of The Greatest Accomplishments Achieved In Human History",
+      "releaseDate": "1981-03-24",
+      "content": {
+        "dateAdded": "2023-05-10T08:00:00.000Z",
+        "videos": [
+          {
+            "url": "https://www.youtube.com/watch?v=uuYoYl5kyVE",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": "154",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Fantasy"
+        ],
+        "tags": [
+          "space",
+          "shuttle",
+          "nasa",
+          "launch"
+        ],
+        "images": [
+          {
+            "url": "https://i.ytimg.com/vi/uuYoYl5kyVE/hq720.jpg",
+            "width": 640,
+            "height": 360
+          }
+        ]
+      }
+    }, 
+    {
+      "title": "SpongeBob SquarePants | Secret Formula",
+      "shortDescription": "All Of His Other Countless Schemes Failed, You'd Think He Would've Realized He Wasn't Meant To Get The Formula",
+      "releaseDate": "1981-03-24",
+      "content": {
+        "dateAdded": "2023-05-10T08:00:00.000Z",
+        "videos": [
+          {
+            "url": "https://www.youtube.com/watch?v=OfmbdmXo_P0",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": "PT23M20S",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Fantasy"
+        ],
+        "tags": [
+          "evil",
+          "secret",
+          "formula",
+          "plankton"
+        ],
+        "images": [
+          {
+            "url": "https://i.ytimg.com/vi/OfmbdmXo/hq720.jpg",
+            "width": 640,
+            "height": 360
+          }
+        ]
+      }
     }
+  ]
 }
